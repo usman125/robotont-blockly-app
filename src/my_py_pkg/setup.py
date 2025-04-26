@@ -25,7 +25,9 @@ setup(
             "smartphone = my_py_pkg.smartphone:main",
             "number_publisher = my_py_pkg.number_publisher:main",
             "number_counter = my_py_pkg.number_counter:main",
-            "web_cmd_vel_subscriber = my_py_pkg.web_cmd_vel_subscriber:main"
+            "web_cmd_vel_subscriber = my_py_pkg.web_cmd_vel_subscriber:main",
+            "rectangle_controller = my_py_pkg.rectangle_controller:main",
+            "add_two_ints_server = my_py_pkg.add_two_ints_server:main"
         ],
     },
 )
